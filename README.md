@@ -1,12 +1,12 @@
 # Hi there, I'm Raguraja Krishnan! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ragurajakrishnan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ragu.is-a.dev)
+[![Portfolio](https://raguportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnatarajana@binghamton.edu)
 
 ## 🎓 About Me
 
-Graduate Student @ **Binghamton University** | MS in Information Systems - Applied Data Science (GPA: 3.33/4.0)
+Graduate Student @ **Binghamton University** | MS in Information Systems - Applied Data Science
 
 - 👨‍💻 **3+ years of experience** in Data Science, Machine Learning & Analytics
 - 💼 Previously **Data Analyst Intern** at Indian Orthocare Surgicals (Stryker), Nokia Solutions & Rankraze
@@ -170,7 +170,7 @@ I'm actively seeking opportunities in **Data Science, Machine Learning, and Anal
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ragurajakrishnan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ragurajakrishnan15)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ragu.is-a.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://raguportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnatarajana@binghamton.edu)
 
 ---
