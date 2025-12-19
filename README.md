@@ -17,7 +17,7 @@ Graduate Student @ **Binghamton University (SUNY)**
 - 🏆 Oracle Certified: **OCI Data Science Professional** & **OCI Generative AI Professional**  
 - 📄 **IEEE Publication** in Wireless Power Transfer for E-Mobility  
 - 📍 Binghamton, NY, USA  
-- 📧 rnatarajanma@binghamton.edu | 📞 +1 (607) 370-8105  
+- 📧 rnatarajanma@binghamton.edu | 
 
 ✔ Experienced with **end-to-end ML pipelines**: data ingestion → modeling → deployment → visualization
 
