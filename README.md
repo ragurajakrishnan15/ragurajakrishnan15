@@ -1,7 +1,7 @@
 # Hi there, I'm Raguraja Krishnan! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ragurajakrishnan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white)](https://ragu.is-a.dev)(https://ragu.is-a.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white)](https://raguportfolio.vercel.app)(https://raguportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rnatarajana@binghamton.edu)
 
 ## 🎓 About Me
